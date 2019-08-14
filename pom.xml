@@ -12,6 +12,7 @@
         <module>spring-core</module>
         <module>spring-web</module>
         <module>spring-service</module>
+        <module>spring-jdk</module>
     </modules>
 
 
